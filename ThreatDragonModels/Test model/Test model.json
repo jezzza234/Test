@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Test model",
+    "owner": "Jeremy"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  },
+  "location": {
+    "organisation": "jezzza234",
+    "repo": "Test",
+    "branch": "master",
+    "model": "Test model"
+  }
+}
